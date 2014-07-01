@@ -1,0 +1,1 @@
+qx_nonlocal_cost_aggregation.exe filename_output_disparity_map filename_left_image filename_right_image max_disparity
